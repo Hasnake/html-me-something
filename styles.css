@@ -2,36 +2,13 @@ body
 {
   background-color: #66ffd9;
 }
-h1 {
-  animation-duration: 3s;
-  animation-name: slidein;
-}
-@keyframes slidein {
-  from {
-    margin-left: 100%;
-    width: 500%;
-  }
+h1
+{
 
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
 }
-h2 {
-  animation-duration: 5s;
-  animation-name: slidein;
-}
-@keyframes slidein {
-  from {
-    margin-left: 0%;
-    width: 500%;
-  }
+h2
+{
 
-  to {
-    margin-left: 100%;
-    width: 100%;
-  }
-}
 }
 ul
 {

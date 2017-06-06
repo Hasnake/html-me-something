@@ -23,14 +23,17 @@ padding: 5px;
 #Wedding
 {
   color: black;
+  font-size: 12px;
 }
 #MySon
 {
   color: blue;
+  font-weight: bold;
 }
 #MyDaughter
 {
   color: pink;
+  background-color: lightblue;
 }
 #Family
 {
